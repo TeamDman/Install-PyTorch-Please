@@ -1,0 +1,3 @@
+https://download.pytorch.org/whl/nightly/
+https://download.pytorch.org/whl/
+https://pypi.org/simple
